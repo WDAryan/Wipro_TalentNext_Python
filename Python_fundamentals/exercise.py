@@ -26,6 +26,7 @@ else:
 #Q4.Write a program to print numbers from 1 to 10 in a single row with one tab space
 for i in range(1, 11):
     print(i, end='\t')
+print('')
 
 #Q5.Write a program to print even numbers between 23 and 57. Each number should be printed in a seperate row.
 for i in range(23,58):
